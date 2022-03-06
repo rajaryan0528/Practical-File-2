@@ -1,0 +1,7 @@
+11 13 15(using classes)
+
+Functions for the string question:
+     length of string
+     uppercase
+     lowercase
+int Matrix::row=2,column=2;
